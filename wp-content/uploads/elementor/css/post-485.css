@@ -886,12 +886,12 @@ body .elementor-485 .elementor-element.elementor-element-34fdc3e .elementor-labe
 }
 
 .elementor-485 .elementor-element.elementor-element-34fdc3e .e-form__buttons__wrapper__button-next {
-    background-color: #FF0000;
+    background-color: #f18048;
     color: #ffffff;
 }
 
 .elementor-485 .elementor-element.elementor-element-34fdc3e .elementor-button[type="submit"] {
-    background-color: #FF0000;
+    background-color: #f18048;
     color: #ffffff;
 }
 
@@ -900,7 +900,7 @@ body .elementor-485 .elementor-element.elementor-element-34fdc3e .elementor-labe
 }
 
 .elementor-485 .elementor-element.elementor-element-34fdc3e .e-form__buttons__wrapper__button-previous {
-    background-color: #FF0000;
+    background-color: #f18048;
     color: #ffffff;
 }
 
@@ -1129,7 +1129,8 @@ body .elementor-485 .elementor-element.elementor-element-34fdc3e .elementor-labe
         text-align: left;
     }
     .elementor-485 .elementor-element.elementor-element-4c1b74f img {
-        width: 30%;
+        width: 20%;
+        height: 170%;
     }
     .elementor-485 .elementor-element.elementor-element-391c1e9 {
         --padding-top: 0px;
