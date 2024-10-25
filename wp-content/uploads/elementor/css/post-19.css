@@ -16,7 +16,7 @@
 
 .elementor-19 .elementor-element.elementor-element-9730079:not(.elementor-motion-effects-element-type-background),
 .elementor-19 .elementor-element.elementor-element-9730079>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #ff0000 !important;
+    background-color: #f47e46 !important;
 }
 
 .elementor-19 .elementor-element.elementor-element-9730079,
@@ -130,12 +130,12 @@
 }
 
 .elementor-19 .elementor-element.elementor-element-869db34 .elementor-social-icon i {
-    color: #ff0000;
+    color: #f47e46;
 }
 
 
 .elementor-19 .elementor-element.elementor-element-869db34 .elementor-social-icon svg {
-    fill: #ff0000;
+    fill: #f47e46;
 }
 
 
@@ -405,7 +405,7 @@
 
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-sub-menu .wpr-sub-menu-item:hover,
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-sub-menu .wpr-sub-menu-item.wpr-active-menu-item {
-    background-color: #d64113;
+    background-color: #f47e46;
 }
 
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-sub-menu .wpr-sub-icon {
@@ -439,11 +439,11 @@
 }
 
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-mobile-toggle:hover {
-    border-color: #cc2611;
+    border-color: #f47e46;
 }
 
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-mobile-toggle:hover .wpr-mobile-toggle-text {
-    color: #ee471e;
+    color: #f47e46;
 }
 
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-mobile-toggle:hover .wpr-mobile-toggle-line {
@@ -527,7 +527,7 @@
     font-family: "Montserrat", Sans-serif;
     font-size: 16px;
     font-weight: 600;
-    background-color: #ff0000 !important;
+    background-color: #f27f46 !important;
     border-radius: 7px 7px 7px 7px;
     box-shadow: 0px 4px 5.3px 0px rgba(0, 0, 0, 0.25098039215686274);
     padding: 014px 041px 014px 041px;
@@ -653,7 +653,7 @@
     width: 60px;
     height: 60px;
     font-size: 20px;
-    background-color: #ff0000;
+    background-color: #eb8249;
     color: var( --e-global-color-astglobalcolor5);
     border-radius: 0px;
     padding: 15px 15px 15px 15px;
@@ -722,7 +722,7 @@
 }
 
 .elementor-19 .elementor-element.elementor-element-d2a17ae .uc-side-menu-items ul a:hover {
-    color: #000073;
+    color: #eb8249;
 }
 
 .elementor-19 .elementor-element.elementor-element-d2a17ae .menu-item>a {
@@ -743,7 +743,7 @@
 
 .elementor-19 .elementor-element.elementor-element-d2a17ae ul li.current-menu-item>a {
     background-color: #00007300;
-    color: #000073;
+    color: #eb8249;
     font-family: "Montserrat", Sans-serif;
     font-weight: 600;
 }
